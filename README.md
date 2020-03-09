@@ -28,7 +28,7 @@
 
 ### 测试样例
 
-![image](./res/fake_screen_res.jpg)
+![image](./res/face_screen_res.jpg)
 
 
 ### 相关数据集
