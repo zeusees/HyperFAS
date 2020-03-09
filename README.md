@@ -29,7 +29,7 @@
 ### 测试样例
 
 
-<img src="./res/face_screen_res.jpg" width = "400"  alt="DEMO" align=center />
+<img src="./res/fake_screen_res.png" width = "400"  alt="DEMO" align=center />
 
 
 ### 相关数据集
