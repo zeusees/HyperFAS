@@ -8,21 +8,22 @@
 
 ### 依赖
 
-##### 基于mobilenet-0.5
++ 基于mobilenet-0.5
 
-##### OpenCV 3.4.3+
++ OpenCV 3.4.3+
 
-##### MTCNN人脸检测
++ MTCNN人脸检测
 
-##### Keras，TF
++ Keras，TF
 
-##### Python3
++ Python3
 
 
 
 ### 运行
 
-##### python src/demo.py
+
++ python src/demo.py
 
 
 
