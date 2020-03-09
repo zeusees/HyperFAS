@@ -29,12 +29,7 @@
 ### 测试样例
 
 
-<p>
-<div align="center">
-<img src="./res/face_screen_res.jpg" width="450px" alt="Demo 蓝色代表假脸"/>
-<div align="center">Demo 蓝色代表假脸</div>
-</div>
-<p>
-  
+<img src="./res/face_screen_res.jpg" width = "400"  alt="DEMO" align=center />
+
 
 ### 相关数据集
