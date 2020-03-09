@@ -26,5 +26,9 @@
 + python src/demo.py
 
 
+### 测试样例
+
+![image](./res/fake_screen_res.jpg)
+
 
 ### 相关数据集
