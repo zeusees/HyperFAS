@@ -28,7 +28,13 @@
 
 ### 测试样例
 
-![image](./res/fake_screen_res.png)
 
+<p>
+<div align="center">
+<img src="./res/face_screen_res.jpg" width="450px" alt="Demo 蓝色代表假脸"/>
+<div align="center">Demo 蓝色代表假脸</div>
+</div>
+<p>
+  
 
 ### 相关数据集
