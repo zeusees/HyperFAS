@@ -32,3 +32,13 @@
 
 
 ### 相关数据集
+
++ NUAA (http://parnec.nuaa.edu.cn/xtan/data/nuaaimposterdb.html)
+
++ IDIAP：The Replay-Attack Database (https://www.idiap.ch/dataset/replayattack)
+
++ CASIA FASD
+
++ The Oulu-NPU face anti-spoofing database (https://sites.google.com/site/oulunpudatabase/)
+
++ Spoof in the Wild (SiW) Face Anti-spoofing Database (http://cvlab.cse.msu.edu/spoof-in-the-wild-siw-face-anti-spoofing-database.html)
